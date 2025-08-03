@@ -64,7 +64,7 @@ Note: Due to file size limitations, the dataset is not included in the repositor
 
 ---
 
-This project was carried out for academic purposes at LUISS Guido Carli University, Rome (2023).
+This project was carried out for academic purposes at LUISS Guido Carli University, Rome (2024).
 
 ---
 
