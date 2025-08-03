@@ -122,7 +122,6 @@ ggplot(bar1, aes(x = Var1, y = Freq, fill = Var2, label = sprintf("%.1f%%", perc
        fill = "Crime Solved") +
   theme_minimal()
 
-# 2.3 the same we can find the 
 
 # 3.1 distribution of victim and perpetrator relationship
 min_count_threshold = 2000
